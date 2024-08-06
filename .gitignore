@@ -1,0 +1,18 @@
+# Arduino
+*.ino.*
+*.cpp.*
+*.h.*
+*.elf
+*.bin
+*.hex
+*.d
+*.elf
+*.eep
+*.a
+*.ld
+
+# Python
+*.pyc
+__pycache__/
+.env
+.env.*
