@@ -30,5 +30,21 @@ This project involves the development of a wearable sleeve for riders, equipped 
 - Use the Telegram bot to request data by sending commands.
 - The bot will respond with the requested sensor data or IP address.
 
+## Library
+- #include <WiFiNINA.h>
+- #include <ArduinoJson.h>
+- #include <Wire.h>
+- #include <DHT.h>
+- #include <DHT_U.h>
+- #include <SkinConductance.h>
+- #include "DFRobot_BloodOxygen_S.h"
+- #include <Adafruit_Sensor.h>
+
+##telegram bot helps
+- https://www.youtube.com/watch?v=vZtm1wuA2yc
+- https://www.youtube.com/watch?v=GZbeL5AcTgw
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
