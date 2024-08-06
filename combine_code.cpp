@@ -8,8 +8,8 @@
 #include <Adafruit_Sensor.h>
 
 // WiFi credentials
-const char* ssid = "Hasan s20 FE";
-const char* password = "pqdu2550";
+const char* ssid = "user name";
+const char* password = "password";
 
 // DHT Sensor
 #define DHTPIN 2
